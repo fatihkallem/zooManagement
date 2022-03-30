@@ -6,7 +6,7 @@
 
 You design a system to track information about animals in a zoo.
 
-
+```
 Animals:
 -Horses (horses, zebras, donkeys, etc.),
 -Felines (tigers, lions, etc.),
@@ -18,7 +18,7 @@ Animals:
 For example, the feeding algorithm will be different for horses and different for tigers.
 
 Using the polymorphism model, design a class diagram to handle the situation described above.
-
+```
 
 ## Diagram
 
